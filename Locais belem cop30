@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4773,
+          -1.4437
+        ]
+      },
+      "properties": {
+        "nome": "Hangar Centro de Convenções",
+        "descricao": "Principal centro de convenções para a COP30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5125,
+          -1.3849
+        ]
+      },
+      "properties": {
+        "nome": "Aeroporto Internacional de Belém/Val-de-Cans",
+        "sigla": "BEL",
+        "descricao": "Principal aeroporto de acesso à Belém"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5019,
+          -1.4565
+        ]
+      },
+      "properties": {
+        "nome": "Estação das Docas",
+        "descricao": "Atração turística e possível área de eventos/encontros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5039,
+          -1.4558
+        ]
+      },
+      "properties": {
+        "nome": "Centro de Belém (Referência)",
+        "descricao": "Ponto central aproximado da cidade"
+      }
+    }
+  ]
+}
