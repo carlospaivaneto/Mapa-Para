@@ -7,6 +7,8 @@
 
 Este repositório contém arquivos GeoJSON com dados geográficos do **estado do Pará**, da vibrante cidade de **Belém**, e de **pontos de interesse cruciais para a Conferência das Nações Unidas sobre as Mudanças Climáticas (COP30)**, sediada em Belém.
 
+![mapa Pará](https://raw.githubusercontent.com/carlospaivaneto/Mapa-Para/refs/heads/main/Screenshot_20250430_200952_Chrome.jpg)
+
 ## 🗺️ Conteúdo dos Arquivos
 
 Aqui você encontrará dados geográficos estruturados em formato GeoJSON, prontos para serem utilizados em diversas aplicações de mapeamento e análise espacial.
