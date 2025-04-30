@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -48.5039,
+      -1.4558
+    ]
+  },
+  "properties": {
+    "nome": "Belém",
+    "estado": "Pará",
+    "descricao": "Ponto central aproximado da cidade de Belém"
+  }
+}
